@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Dogez of the Tundra"
+author: "Paul Beaudet"
 categories: sample
 tags: [sample]
 image: arctic-1.jpg
