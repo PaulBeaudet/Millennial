@@ -7,7 +7,7 @@ tags: [sample]
 image: cuba-4.jpg
 ---
 
-Hi there! I'm Paul. I’m a idiot turned programmer. Ever since I first learned how to program while building alternative keyboard, I have pursued programming as a passion, and as a career. Here is a compilation of some of my favourite things that I have built over the years on my <a href="http://github.com/PaulBeaudet" target="_blank">Github</a> page.
+Hi there! I'm Paul. I’m a idiot turned programmer. Ever since I first learned how to program while building alternative keyboards, I have pursued programming as a passion, and as a career. Here is a compilation of some of my favourite things that I have built over the years on my <a href="http://github.com/PaulBeaudet" target="_blank">Github</a> page.
 
 ### Whats going on here
 
