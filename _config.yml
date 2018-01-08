@@ -11,7 +11,7 @@ plugins:     [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 sass:
   sass_dir: assets/css
-  style: : nested
+  style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:       "Ermpower"
