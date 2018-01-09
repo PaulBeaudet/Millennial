@@ -5,11 +5,11 @@ title: Paul Beaudet
 
 ## What is equality?
 
->> Even if you're an athist, for a momement put your perception in the eyes of higher power. Relieze that humanity is a group of hairless apes and look at them like you would look at any other group of animals. Would you see as many differences amoung people as you do now?
->>
->> Humans are all basically the same creatures in this view. Descriminating subtle unique features is a process of survival among and inside sub groups of life. Where a narrow difference of strength, endurance, and consideration are keenly discriminated. Often differance that defines survivability. As a higher power there are no such consiquences. Its probably why you think all squirles basically look the same, consiquences of their differences are not that applicable to your condition
->>
->> Call to question if all of these narow differances define the survivability of the species or the individual seeds. Humans pass on more than their genetic traits, they also pass on tools of survivability. Tools that bridge gaps between individuals. In that light what differances really matter? When do differances become a matter of veriety as opposed to a matter of superiority?
+> Even if you're an athist, for a momement put your perception in the eyes of higher power. Relieze that humanity is a group of hairless apes and look at them like you would look at any other group of animals. Would you see as many differences amoung people as you do now?
+>
+> Humans are all basically the same creatures in this view. Descriminating subtle unique features is a process of survival among and inside sub groups of life. Where a narrow difference of strength, endurance, and consideration are keenly discriminated. Often differance that defines survivability. As a higher power there are no such consiquences. Its probably why you think all squirles basically look the same, consiquences of their differences are not that applicable to your condition
+>
+> Call to question if all of these narow differances define the survivability of the species or the individual seeds. Humans pass on more than their genetic traits, they also pass on tools of survivability. Tools that bridge gaps between individuals. In that light what differances really matter? When do differances become a matter of veriety as opposed to a matter of superiority?
 
 ## Bio
 
